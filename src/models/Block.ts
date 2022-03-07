@@ -1,4 +1,5 @@
 import { SHA256 } from "crypto-js";
+import { Cripto } from "../interfaces/Cripto";
 
 
 class Block {
